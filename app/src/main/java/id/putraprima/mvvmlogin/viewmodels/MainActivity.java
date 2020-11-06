@@ -1,8 +1,10 @@
-package id.putraprima.mvvmlogin;
+package id.putraprima.mvvmlogin.viewmodels;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import id.putraprima.mvvmlogin.R;
 
 public class MainActivity extends AppCompatActivity {
 
